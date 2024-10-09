@@ -1,7 +1,7 @@
 :root{
-    --bg-color:#bae9f6;
-    --primary-color:#b7d2ed;
-    --secudary-color:#576cc6;
+    --bg-color:hsl(208, 63%, 87%);
+    --primary-color:#9ac8f6;
+    --secudary-color:#4c83d1;
     --font:"Edu AU VIC WA NT Guides", cursive;
 }
 
